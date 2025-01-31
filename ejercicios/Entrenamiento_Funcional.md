@@ -20,3 +20,12 @@ El entrenamiento funcional es un tipo de ejercicio que se basa en movimientos qu
 - Realizar ejercicios que imiten movimientos cotidianos.
 - Descansar entre cada serie de ejercicios.
 - Aumentar gradualmente los pesos.
+
+## Consejos
+- Iniciar con ejercicios sencillos, como planchas, abdominales o elevaciones de caderas
+- Progresar a ejercicios más exigentes
+- Realizar ejercicios que trabajen múltiples grupos musculares
+- Realizar ejercicios en diferentes planos de movimiento
+- Realizar ejercicios en superficies inestables
+- Tomar un día de descanso entre sesiones
+- Aumentar la resistencia a medida que se mejora el estado físico
