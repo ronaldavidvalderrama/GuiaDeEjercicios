@@ -12,3 +12,11 @@ El entrenamiento funcional es un tipo de ejercicio que se basa en movimientos qu
 - Mejora la función pulmonar
 - Aumenta el metabolismo
 - Mejora la salud mental
+
+## Instrucciones
+- Evaluar tus objetivos y necesidades.
+- Iniciar con ejercicios sencillos y estables.
+- Trabajar todos los grupos musculares principales.
+- Realizar ejercicios que imiten movimientos cotidianos.
+- Descansar entre cada serie de ejercicios.
+- Aumentar gradualmente los pesos.
