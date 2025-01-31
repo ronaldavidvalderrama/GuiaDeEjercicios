@@ -21,3 +21,12 @@ El ejercicio de flexibilidad se centra en estirar y alargar los músculos para m
 - Realizar estiramientos tanto dinámicos como estáticos.
 - Respirar profundamente mientras se realiza el estiramiento.
 - Estirar al menos 3-4 veces por semana para obtener mejores resultados.
+
+## Consejos
+- No estirar los músculos fríos; siempre calienta antes de estirar.
+- Estirar después de hacer ejercicio para mejorar la flexibilidad.
+- Enfocarse en estirar tanto la parte superior como la inferior del cuerpo.
+- Evitar rebotes al estirar, ya que esto puede causar lesiones.
+- Escuchar a tu cuerpo y no forzar los movimientos más allá de su límite.
+- Mantener una rutina constante para ver mejoras a largo plazo.
+- Utilizar accesorios como bandas elásticas o rodillos de espuma para mayor comodidad en los estiramientos.
