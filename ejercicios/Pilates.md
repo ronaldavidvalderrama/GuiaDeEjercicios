@@ -13,3 +13,12 @@ El Pilates es un sistema de ejercicios que se enfoca en la postura, la alineaci�
 - Mejora la respiración y la circulación sanguínea.
 - Es adecuado para personas de todas las edades y niveles de condición física.
 
+## Instrucciones
+- Comenzar con ejercicios básicos para aprender la correcta alineación y el control del cuerpo.
+- Realizar movimientos lentos y controlados, enfocándose en la respiración y la precisión del movimiento.
+- Incorporar ejercicios que trabajen tanto la parte superior como la inferior del cuerpo.
+- Mantener una postura correcta en todo momento, especialmente en la zona del abdomen y la espalda.
+- Realizar de 8 a 12 repeticiones por ejercicio, con descansos breves entre ellos.
+- Evitar movimientos bruscos y enfocarse en la suavidad y el control.
+- Terminar con estiramientos suaves para mejorar la flexibilidad y relajación muscular.
+
