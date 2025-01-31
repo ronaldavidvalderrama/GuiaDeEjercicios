@@ -12,3 +12,12 @@ El ejercicio de flexibilidad se centra en estirar y alargar los músculos para m
 - Aumenta la elasticidad muscular.
 - Reduce el estrés y mejora la relajación.
 - Mejora el rendimiento en otras actividades físicas.
+
+## Instrucciones
+- Comenzar con una ligera actividad cardiovascular para calentar los músculos.
+- Realizar estiramientos suaves y controlados.
+- Mantener cada estiramiento entre 15 y 30 segundos.
+- Evitar forzar el cuerpo a posiciones incómodas.
+- Realizar estiramientos tanto dinámicos como estáticos.
+- Respirar profundamente mientras se realiza el estiramiento.
+- Estirar al menos 3-4 veces por semana para obtener mejores resultados.
