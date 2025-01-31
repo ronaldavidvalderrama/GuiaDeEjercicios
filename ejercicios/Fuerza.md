@@ -22,3 +22,12 @@ El ejercicio de fuerza se centra en aumentar la capacidad del cuerpo para genera
 - Incluir ejercicios compuestos que trabajen varios grupos musculares a la vez.
 - No olvidar calentar antes de comenzar y estirar después de terminar.
 
+## Consejos
+- Comenzar con ejercicios básicos como sentadillas, flexiones o levantamiento de pesas ligeras.
+- Priorizar la técnica sobre el peso, especialmente al principio.
+- Realizar entrenamientos de fuerza 2-3 veces por semana para evitar el sobreentrenamiento.
+- Utilizar tanto el peso corporal como pesas libres o máquinas para variar el entrenamiento.
+- Aumentar gradualmente el peso o la dificultad de los ejercicios a medida que mejoran tus resultados.
+- Mantener una buena nutrición con proteínas suficientes para apoyar el crecimiento muscular.
+- No olvidar el descanso y la recuperación entre sesiones para evitar el agotamiento.
+
