@@ -9,3 +9,8 @@ Los ejercicios de ciclismo son actividades que ayudan a mejorar la fuerza y la r
 - Mejora la flexibilidad.
 - Aumenta la capacidad cardiovascular.
 - Quema calorías y ayuda en la pérdida de peso.
+
+## Instrucciones
+1. Comienza con una pesadilla de 30 segundos.
+2. Realiza la actividad (peso, cabeza, brazos, piernas) durante al menos 30 minutos.
+3. Termina con una pesadilla de 30 segundos.
