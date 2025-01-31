@@ -14,3 +14,10 @@ El Yoga es una práctica milenaria que combina posturas físicas, respiración c
 - Ayuda a reducir dolores musculares y articulares.
 - Promueve la conexión mente-cuerpo y la conciencia plena.
 
+## Instrucciones
+- Comenzar con una práctica suave y sencilla, enfocándose en la respiración y el alineamiento corporal.
+- Realizar las posturas (asanas) de manera lenta y controlada, manteniendo la respiración fluida.
+- Asegurarse de alinear el cuerpo correctamente en cada postura para evitar lesiones.
+- Mantener cada postura entre 15-30 segundos, respirando profundamente durante todo el proceso.
+- Practicar regularmente, aumentando gradualmente la dificultad de las posturas a medida que la flexibilidad y fuerza mejoren.
+- Terminar cada sesión con una postura de relajación (como Savasana) para calmar la mente y el cuerpo.
