@@ -9,3 +9,12 @@ Los ejercicios de CrossFit son entrenamientos funcionales de alta intensidad que
 - Densidad ósea: El entrenamiento de resistencia ayuda a prevenir la pérdida ósea. 
 - Salud cardiovascular: Mejora la aptitud cardiovascular y reduce el riesgo de enfermedades cardiovasculares. 
 - Pérdida de peso: Ayuda a quemar calorías y a perder peso. 
+
+## Instrucciones
+- Evaluar tu condición física
+- Establecer objetivos
+- Diseñar una rutina equilibrada
+- Elegir un horario de entrenamiento
+- Adaptar los ejercicios a tu nivel
+- Practicar con tu propio peso hasta que domines la técnica
+- Ir aumentando gradualmente el peso
