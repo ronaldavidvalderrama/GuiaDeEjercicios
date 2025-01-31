@@ -22,3 +22,11 @@ El Pilates es un sistema de ejercicios que se enfoca en la postura, la alineaci�
 - Evitar movimientos bruscos y enfocarse en la suavidad y el control.
 - Terminar con estiramientos suaves para mejorar la flexibilidad y relajación muscular.
 
+## Consejos
+- Empezar con una clase introductoria o con un instructor si eres principiante para aprender la técnica adecuada.
+- No apresurarse; Pilates se trata de calidad, no de cantidad o rapidez.
+- Asegurarse de respirar profundamente mientras realizas los ejercicios, coordinando la respiración con el movimiento.
+- Usar ropa cómoda y que permita el movimiento libre.
+- Realizar Pilates 2-3 veces por semana para obtener los mejores resultados.
+- No forzar el cuerpo, especialmente al principio; trabaja dentro de tu rango de movimiento.
+- Utilizar equipo como pelotas, bandas elásticas o el reformer para añadir variedad y desafío a tus entrenamientos.
