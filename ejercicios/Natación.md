@@ -21,3 +21,13 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo mientras
 - No forzar el cuerpo, especialmente si eres principiante.
 - Aumentar gradualmente la duración y la intensidad del entrenamiento a medida que se mejora la resistencia.
 - Terminar con un enfriamiento suave, nadando lentamente y estirando fuera del agua.
+
+## Consejos
+- Empezar con sesiones de corta duración, como 20-30 minutos, y aumentar gradualmente el tiempo a medida que te sientas más cómodo.
+- Alternar entre diferentes estilos de nado para trabajar diversos músculos y evitar la monotonía.
+- Si eres principiante, trabajar primero en la técnica de respiración y flotación.
+- Usar equipo adecuado, como gafas de natación, para mejorar la visibilidad y el confort.
+- Escuchar a tu cuerpo: si sientes dolor o fatiga extrema, tómate un descanso.
+- Mantenerte bien hidratado, ya que el ejercicio en agua puede no hacerte sentir tan sediento, pero igualmente es importante.
+- Disfrutar del proceso y no apresurarse: la natación mejora con el tiempo y la práctica.
+
